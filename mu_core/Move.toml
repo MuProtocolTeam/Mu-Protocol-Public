@@ -1,0 +1,20 @@
+[package]
+name = "mu_core"
+version = "0.0.1"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "testnet" }
+
+[addresses]
+mu_core =  "0x4f6995bd1440cbe07dbf1259209a49226e874e28c472f9fe0227711d137a55d3"         # package
+sui =  "0000000000000000000000000000000000000000000000000000000000000002"               # sui sdk package
+col_metadata = "0x6da532014ec3de41526894f143a329867a391e125ecccb2269a29f36e6536ae3"     # immutable
+musd_metadata = "0x713293bebe5c1cb8cf99edfb0dbbc9a0cccc44989ea6c06be56f13cfd0ccc0c4"    # immutable
+musd_cap = "0x37ef7f9d668519d0f072ae0c617957678d4583fba6972736fcc2e820de41c80e"         # shared 
+registry = "0x69b422b263718262507c7167aa693e671d85cf8a4b29c20be49da7879b60aec8"         # shared
+col_cap = "0x19f52a67656233054a077c893842c131a9bb838081be00f49414cca7aeef4a01"          # owned by admin account
+upgrade_cap = "0x1feab30a10f81313ba1d459125ca2cdbfa7ba216112fa62418b96abe0e4ae75a"      # owned by admin account
+
+# admin account: @0x280ab12f427c488bb001a5f44f84d7fac5ecc8d95064c4f099714f6b8943b545
+# admin private key: AOia4ZMSTR5QLN18GFMqWEX8t2dt0Pioo8u4FNURS1Vn (need to add it to .sui/sui_config/.keystore)
+
