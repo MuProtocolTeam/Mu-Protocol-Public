@@ -13,13 +13,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/MuProtocolTeam/Mu-Protocol-Public">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Mu Protocol</h3>
 
   <p align="center">
     Stablecoin Solution on Sui Blockchain
+    <br />
+    <a href="http://ec2-44-204-83-185.compute-1.amazonaws.com/"><strong>Temporary UI</strong></a>
+    ·
+    <a href="docs/Stablecoin_LP_Marketplace.pdf"><strong>Stablecoin Market Design Doc</strong></a>
     <br />
     <a href="https://github.com/MuProtocolTeam/Mu-Protocol-Public/issues">Report Bug</a>
     ·
@@ -53,9 +57,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](http://ec2-44-204-83-185.compute-1.amazonaws.com/)
-
 Mu Protocol offers the ultimate stablecoin solution on Sui blockchain to GameFi economy's inherent liquidity and payment problems and aims to become the financial service layer of the whole Sui ecosystem. On Mu Protocol, Any GameFi project on Sui can easily issue its utility or governance token, smoothly list it on desirable exchanges, efficiently bootstrap its liquidity, and successfully convert it into an effective payment method in and beyond its game economy. Non-GameFi projects can also find Mu Protocol the best solution to listing and bootstrapping its utility or governance token and furthering its growth.
+[Stablecoin LP Marketplace design >>](docs/Stablecoin_LP_Marketplace.pdf)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
