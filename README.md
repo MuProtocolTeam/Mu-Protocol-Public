@@ -80,13 +80,17 @@ Please follow the intruction at https://docs.sui.io/build/devnet
 ## Published package 
 ### Sui Permanent Testnet
 
-mu-core package: 0x04ec4a3987ade3b4ce54a555444e7fc26bf79a38a7a5af6d1e48c08260c0062d
+mu-core package: 0x84a2876ea09bb0dcab9b07c9274f077d672ef55fcf21c7d2d31c4530196d7a04
 
-oracle: 0x52a96dd8b78df0ad563e88301e3cc52ed97a44fcb3caf1a5e6a64dc090729c6d
+musd metadata: 0x50d67498b5b99b9276c450db1a21fbad5b66618e810ec5648ebcfb057a062ce4
 
-musd metadata: 0x4632557a62ac9f295ef0c78b7eeb16134ead9da9f143b90130f2c5645f5e22b0
+musd capacity token: 0x7d034fd85be86e34f3b8b6f19f590be42b540b79201b6dac7124f829b3c6e0e8
 
-vault example: 0x2de4911476a1f7c11c85dcf1e82bfc947679ad2ad031eba35807a465339fb368
+musd registry: 0x8a5aca595f28c3331d2a8ec6a79e9134a140014799bd8d3993fae8ed554090cf
+
+oracle example: 0xbfd224e2b431c181d36703a0ca996fee7c2dcb33e7b11c03cf5979d60c507df0
+
+vault example: 0xdb83e5e7ad5cce71312f5d5d4325f8344443fe09468e35de83cafa267b160c34
 
 ## Usage
 ### open mUSD vault
